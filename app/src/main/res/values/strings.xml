@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Provider</string>
+    <string name="signin">Sign In</string>
+    <string name="registration">Registration</string>
+</resources>
