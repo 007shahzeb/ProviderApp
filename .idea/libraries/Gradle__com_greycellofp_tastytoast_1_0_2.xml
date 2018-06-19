@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.greycellofp:tastytoast-1.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tastytoast-1.0.2.aar/eacbd480753e77c7b40bd514db46e592/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tastytoast-1.0.2.aar/eacbd480753e77c7b40bd514db46e592/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.greycellofp/tastytoast/1.0.2/71b42b03761ac438211f75965452b6cd67a35d1/tastytoast-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
